@@ -1,4 +1,4 @@
-# socialmedia
+# Mavenly Social Media
 Mavenly social media documentation
 
 - [Twitter](https://twitter.com/bemavenly)
